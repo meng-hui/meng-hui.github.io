@@ -1,0 +1,6 @@
+googleAnalytics = "UA-48548011-3"
+baseURL = 'https://kohmh.com/'
+languageCode = 'en-us'
+title = 'Meng Hui'
+theme = 'book'
+disablePathToLower = true
