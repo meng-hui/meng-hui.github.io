@@ -9,7 +9,7 @@ weight: 2
 # bookSearchExclude: false
 ---
 
-Good ideas are hard to come by. And when you come across a good idea, you wonder why you never thought in that way before. Below in no particular order are ideas which changed how I thought about something. Where applicable, I will include the book I got the idea from and a brief description of why you might want to read it.
+Useful ideas that have stood the test of time do not come by often. An idea is useful when it models reality as it is and provides ways to deal with how things are. Below in no particular order are ideas which changed how I thought about something. Where applicable, I will include the book I got the idea from and a brief description of why you might want to read it.
 
 #### Programming
 Harold Abelson, Gerald Jay Sussman, Julie Sussman. *Structure and Interpretation of Computer Programs.*
@@ -19,12 +19,12 @@ Technology stacks and programming languages go in and out of fashion, but the co
 #### Human Biases 
 Daniel Kahneman. *Thinking, Fast and Slow.*
 
-Explanation of System 1 vs System 2 thinking. Good to know and understand situations where you might be biased and make bad decisions. 
+Explanation of System 1 vs System 2 thinking. Understand situations where you might be biased and make bad decisions. 
 
 #### Sales
 Robert B. Cialdini. *Influence: The Psychology of Persuasion.*
 
-Why do so many salespeople and sales pitches sound the same?
+Why do so many sales pitches sound the same?
 
 #### Training/Fitness
 Mark Rippetoe. *Starting Strength 3rd Edition.*
