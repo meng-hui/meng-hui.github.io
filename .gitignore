@@ -1,5 +1,8 @@
 # Hugo default output directory
-/public
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
 
 ## OS Files
 # Windows
@@ -10,3 +13,6 @@ $RECYCLE.BIN/
 
 # OSX
 .DS_Store
+
+# Temporary lock file while building
+/.hugo_build.lock
