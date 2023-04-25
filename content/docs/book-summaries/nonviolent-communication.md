@@ -1,6 +1,6 @@
 ---
 title: "Nonviolent Communication"
-weight: 1
+weight: 10001
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false
@@ -8,6 +8,12 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 ---
+
+# Nonviolent Communication - by Marshall Rosenberg
+
+###### Date Read: 2023-04-18
+
+### Notes
 
 Not sure how this book can be applied on a practical basis. Interesting portion on self-compassion.
 

@@ -1,6 +1,6 @@
 ---
 title: "Managing Oneself"
-weight: 1
+weight: 10002
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false
@@ -8,6 +8,12 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 ---
+
+# Managing Oneself - by Peter Drucker
+
+###### Date Read: 2023-04-03
+
+### Notes
 
 #### WHAT ARE MY STRENGTHS?
 

@@ -1,6 +1,6 @@
 ---
 title: "Better Small Talk"
-weight: 1
+weight: 10003
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false
@@ -8,6 +8,12 @@ bookCollapseSection: false
 # bookComments: false
 # bookSearchExclude: false
 ---
+
+# Better Small Talk - by Patrick King
+
+###### Date Read: 2023-04-02
+
+### Notes
 
 Practice short interactions
 

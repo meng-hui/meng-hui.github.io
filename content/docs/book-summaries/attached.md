@@ -1,6 +1,6 @@
 ---
 title: "Attached"
-weight: 1
+weight: 10000
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false
@@ -8,6 +8,12 @@ bookCollapseSection: false
 # bookComments: false
 # bookSearchExclude: false
 ---
+
+# Attached - by Amir Levine
+
+###### Date Read: 2023-04-20
+
+### Notes
 
 3 attachment styles: secure, anxious, avoidant
 
